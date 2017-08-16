@@ -1,0 +1,16 @@
+{
+  "name": "googlemap-test",
+  "version": "0.0.1",
+  "description": "Google Map Test",
+  "private": true,
+  "scripts": {
+    "doc": "jsdoc app.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.3"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.5.4"
+  }
+}
